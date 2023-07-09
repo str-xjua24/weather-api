@@ -16,7 +16,7 @@ Current Object:
 -precip_mm: num
 -temp_c: num,
 -temp_f: num,
--wind_kp: num
+-wind_kph: num
 
 Location Object:
 -localtime: date,
